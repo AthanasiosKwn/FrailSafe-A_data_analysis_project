@@ -13,6 +13,6 @@ A small subset of the FrailSafe dataset is analyzed with the objective of identi
 
 The repository contains the following:
 1) A project report.
-2) Three jupyter notebooks containing the project code and detailed step-by-step markdown commentary.
+2) Three Jupyter notebooks containing the project code, along with detailed step-by-step markdown commentary.
 
 The data has not been uploaded due to licensing restrictions. I intend to release the CSV files once the appropriate permissions have been obtained.
